@@ -105,7 +105,7 @@ export default function About() {
             </motion.div>
 
             <motion.p variants={itemVariants} className="text-[#8892b0] leading-relaxed text-lg pt-4">
-              Outside of coding, I enjoy content creation, design, emerging technology, gaming, and exploring ideas that sit at the intersection of technology and creativity.
+              Outside of coding, I enjoy  design, emerging technology, gaming, and exploring ideas that sit at the intersection of technology and creativity.
             </motion.p>
           </div>
 
